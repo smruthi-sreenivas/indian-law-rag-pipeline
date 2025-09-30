@@ -1,6 +1,6 @@
 # indian-law-rag-pipeline
 
-# 🇮🇳 Indian Laws RAG Pipeline
+# Indian Laws RAG Pipeline
 
 This project implements a **Retrieval-Augmented Generation (RAG)** pipeline designed to answer **queries related to Indian laws** using **LLMs and optimized retrieval**.
 
