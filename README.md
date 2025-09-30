@@ -41,7 +41,7 @@ To build a system that can accurately retrieve and generate grounded responses f
 
 ## 🧪 Evaluation
 
-Since a labeled test set is not available, **manual evaluation** was performed using a curated set of **30 Indian law questions** covering:
+Since a labeled test set is not available, **manual evaluation** was performed using a curated set of **Indian law questions** covering:
 
 - IPC (Criminal Law)
 - IT Act (Cyber Law)
